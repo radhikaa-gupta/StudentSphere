@@ -3,7 +3,9 @@ MY LEARNING JOURNEY
 
 Creating My First Java Project
 
-Introduction: In this document, I will share my learning journey while creating a Java project using various classes and methods, including Student, ProfileManagement, ExamProcess, AcademicManagement, CollegeManagement, Feedback, and others. I will provide a detailed account of each step, highlighting the concepts learned and problems faced along the way.
+Introduction: In this document, I will share my learning journey while creating a Java project using various classes and methods,
+including Student, ProfileManagement, ExamProcess, AcademicManagement, CollegeManagement, Feedback, and others. I will provide a
+detailed account of each step, highlighting the concepts learned and problems faced along the way.
 
 Step 1: Creating the Student Class
 - Implemented the Student class to represent student information.
@@ -55,4 +57,7 @@ Problem-Solving and Troubleshooting
 - Resolved issues by debugging and utilizing relevant programming techniques.
 - Implemented error handling mechanisms to handle unexpected situations.
 
-Conclusion: Creating this Java project provided a comprehensive learning experience. I gained knowledge in object-oriented programming, file handling, user interaction, error exception handling, and multi-threading. By incorporating different classes and methods, I developed a modular and well-structured project. Throughout the journey, I faced challenges, but with perseverance and continuous learning, I overcame them and successfully completed the project.
+Conclusion: Creating this Java project provided a comprehensive learning experience. I gained knowledge in object-oriented programming,
+file handling, user interaction, error exception handling, and multi-threading. By incorporating different classes and methods, I developed
+a modular and well-structured project. Throughout the journey, I faced challenges, but with perseverance and continuous learning, I
+overcame them and successfully completed the project.
