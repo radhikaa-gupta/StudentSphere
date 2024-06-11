@@ -42,5 +42,8 @@ The IGDTUW ERP portal serves as a centralized hub for students, offering a range
 ## Installation
 To run StudentSphere locally, compile and run the Java files using any Java development environment.
 
+## My Learning Journey
+Check out my learning journey documented in [mylearningjourney.txt](mylearningjourney.txt).
+
 ## Contact
 For any inquiries or feedback, please contact [Radhika Gupta](mailto:radhika100btcsai22@igdtuw.ac.in).
