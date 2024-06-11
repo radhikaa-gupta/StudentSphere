@@ -1,0 +1,16 @@
+Project Setup Instructions:
+
+1) Load the project folder as a package within your Java IDE.
+
+2) The main method is located in login.java, serving as the entry point for the program.
+
+3) All necessary .txt files will be automatically created in the default storage location of your Java IDE.
+
+
+
+
+Hope you like the project!
+
+Thank You
+Radhika Gupta
+radhika100btcsai22@igdtuw.ac.in
