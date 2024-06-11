@@ -2,7 +2,7 @@
 
 ## Overview
 
-StudentSphere is a comprehensive Enterprise Resource Planning (ERP) portal built using Java Object-Oriented Programming principles. It provides students with a centralized platform to manage academic activities, access information, and communicate with faculty.
+StudentSphere is a comprehensive Enterprise Resource Planning (ERP) portal built using Java Object-Oriented Programming principles. The ERP portal is a comprehensive platform that enables students to access academic information, manage profiles, interact with faculty, and perform various administrative tasks. This project endeavors to recreate the portal's functionalities and user interface to provide a similar experience for educational purposes.
 
 ## Project Objective
 
@@ -12,12 +12,33 @@ The primary goal of StudentSphere is to create a simulated environment for stude
 <img src="https://github.com/radhikaa-gupta/StudentSphere/assets/123308047/f61e8fa5-43cb-4f12-9e46-5193eac85f5c" width="400" height="300">
 
 ## Features
+The IGDTUW ERP portal serves as a centralized hub for students, offering a range of features such as: 
+-Profile Management: 
+ Accessing and updating personal information. 
+ Viewing academic details, including course enrollment and semester-wise 
+results. 
+ Managing contact information and communication preferences. 
 
-- **Profile Management:** Access and update personal information, view academic details, and manage communication preferences.
-- **Academic Management:** Register for courses, track semester-wise academic progress, request certificates, and access exam-related information.
-- **College Management:** View faculty details, explore available subjects for each semester, and access the college timetable for classes and events.
-- **Exam Process:** Check marks and grades obtained in different exams, register for General Elective Course (GEC) subjects, and generate admit cards for examinations.
-- **Feedback:** Provide feedback and suggestions to improve the academic experience, share opinions on course content, teaching methods, and overall facilities.
+-Academic Management: 
+ Registering for courses and tracking semester-wise academic progress. 
+ Requesting certificates, including transcripts and degree certificates. 
+ Viewing exam schedules and accessing exam-related information. 
+
+-College Management: 
+ Viewing faculty details, including assigned teachers for different subjects. 
+ Exploring the list of available subjects for each semester. 
+ Accessing the college timetable for classes and events.
+
+-Exam Process: 
+ Checking marks and grades obtained in different exams. 
+ Registering for GEC (General Elective Course) subjects. 
+ Generating admit cards for examinations. 
+
+-Feedback: 
+ Providing feedback and suggestions to improve the academic experience. 
+ Sharing opinions on course content, teaching methods, and overall facilities.
+
+
 
 ## Installation
 To run StudentSphere locally, compile and run the Java files using any Java development environment.
