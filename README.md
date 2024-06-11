@@ -8,9 +8,6 @@ StudentSphere is a comprehensive Enterprise Resource Planning (ERP) portal built
 
 The primary goal of StudentSphere is to create a simulated environment for students to practice using ERP functionalities. By replicating essential features of ERP systems commonly used in educational institutions, students can enhance their programming skills and gain practical experience in software development.
 
-<img src="https://github.com/radhikaa-gupta/StudentSphere/assets/123308047/c3b23ae2-c7e1-4cac-8130-b96b752bf995" width="400" height="300">
-<img src="https://github.com/radhikaa-gupta/StudentSphere/assets/123308047/f61e8fa5-43cb-4f12-9e46-5193eac85f5c" width="400" height="300">
-
 ## Features
 The IGDTUW ERP portal serves as a centralized hub for students, offering a range of features such as: 
 
@@ -37,6 +34,10 @@ The IGDTUW ERP portal serves as a centralized hub for students, offering a range
 ### Feedback
 - Providing feedback and suggestions to improve the academic experience. 
 - Sharing opinions on course content, teaching methods, and overall facilities.
+
+## Snapshots
+<img src="https://github.com/radhikaa-gupta/StudentSphere/assets/123308047/c3b23ae2-c7e1-4cac-8130-b96b752bf995" width="400" height="300">
+<img src="https://github.com/radhikaa-gupta/StudentSphere/assets/123308047/f61e8fa5-43cb-4f12-9e46-5193eac85f5c" width="400" height="300">
 
 ## Installation
 To run StudentSphere locally, compile and run the Java files using any Java development environment.
