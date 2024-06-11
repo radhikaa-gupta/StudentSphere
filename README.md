@@ -13,36 +13,33 @@ The primary goal of StudentSphere is to create a simulated environment for stude
 
 ## Features
 The IGDTUW ERP portal serves as a centralized hub for students, offering a range of features such as: 
--Profile Management: 
- Accessing and updating personal information. 
- Viewing academic details, including course enrollment and semester-wise 
-results. 
- Managing contact information and communication preferences. 
 
--Academic Management: 
- Registering for courses and tracking semester-wise academic progress. 
- Requesting certificates, including transcripts and degree certificates. 
- Viewing exam schedules and accessing exam-related information. 
+### Profile Management
+- Accessing and updating personal information. 
+- Viewing academic details, including course enrollment and semester-wise results. 
+- Managing contact information and communication preferences. 
 
--College Management: 
- Viewing faculty details, including assigned teachers for different subjects. 
- Exploring the list of available subjects for each semester. 
- Accessing the college timetable for classes and events.
+### Academic Management
+- Registering for courses and tracking semester-wise academic progress. 
+- Requesting certificates, including transcripts and degree certificates. 
+- Viewing exam schedules and accessing exam-related information. 
 
--Exam Process: 
- Checking marks and grades obtained in different exams. 
- Registering for GEC (General Elective Course) subjects. 
- Generating admit cards for examinations. 
+### College Management
+- Viewing faculty details, including assigned teachers for different subjects. 
+- Exploring the list of available subjects for each semester. 
+- Accessing the college timetable for classes and events.
 
--Feedback: 
- Providing feedback and suggestions to improve the academic experience. 
- Sharing opinions on course content, teaching methods, and overall facilities.
+### Exam Process
+- Checking marks and grades obtained in different exams. 
+- Registering for GEC (General Elective Course) subjects. 
+- Generating admit cards for examinations. 
 
-
+### Feedback
+- Providing feedback and suggestions to improve the academic experience. 
+- Sharing opinions on course content, teaching methods, and overall facilities.
 
 ## Installation
 To run StudentSphere locally, compile and run the Java files using any Java development environment.
 
 ## Contact
 For any inquiries or feedback, please contact [Radhika Gupta](mailto:radhika100btcsai22@igdtuw.ac.in).
-
